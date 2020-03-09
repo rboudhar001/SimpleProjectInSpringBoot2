@@ -9,4 +9,4 @@ Simple Project in Spring Boot 2 to manage Users and their friends.
 3) Build the Project with Maven
 4) Create your database running the scripts in the 'db' folder.
 5) Change the parameters (url, username, password) for your MySQL Connector in the 'application.properties' file
-4) Deploy in your Apache Server (embebed) with this parameters: clean spring-boot:run
+4) Deploy in your Apache Server (embebed) with this parameters: ```html clean spring-boot:run ```
